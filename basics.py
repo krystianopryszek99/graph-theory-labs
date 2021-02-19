@@ -1,5 +1,5 @@
 # Krystian Opryszek 
-# Pyrhon basics 
+# Python basics 
 # 2021-02-12
 
 def factorial(n):
